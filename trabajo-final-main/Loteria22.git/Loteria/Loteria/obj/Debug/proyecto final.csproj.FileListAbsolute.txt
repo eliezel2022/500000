@@ -1,0 +1,14 @@
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\bin\Debug\Loteria.exe.config
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\bin\Debug\Loteria.exe
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\bin\Debug\Loteria.pdb
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\bin\Debug\LiteDB.dll
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\bin\Debug\LiteDB.xml
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\proyecto final.csproj.AssemblyReference.cache
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\proyecto final.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\Loteria.Form1.resources
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\Loteria.Properties.Resources.resources
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\proyecto final.csproj.CopyComplete
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\Loteria.exe
+C:\Users\eliez\OneDrive\Desktop\trabajo-final-main\Loteria22.git\Loteria\Loteria\obj\Debug\Loteria.pdb
